@@ -1,5 +1,6 @@
-TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) is a multi-criteria decision-making (MCDM) method used to rank alternatives based on their similarity to an ideal solution. It helps in making the best choice when multiple criteria need to be considered.
-Topsis does the following works:
-1.Normalise the decision matrix
-2.Determine Ideal best and worst solutions
-3.Rank Alternatives, etc.
+TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution). The Topsis class is designed to implement the TOPSIS method. It includes methods to:
+Normalize decision matrices.
+Apply weights.
+Identify ideal and anti-ideal solutions.
+Calculate distances to ideal solutions.
+Rank alternatives based on closeness to the ideal solution.
